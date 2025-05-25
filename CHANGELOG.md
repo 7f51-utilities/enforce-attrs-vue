@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/7f51-utilities/enforce-attrs-vue/compare/v1.0.1...v1.0.2) (2025-05-25)
+
+
+### Bug Fixes
+
+* corrected package visibility in the package.json ([abbe500](https://github.com/7f51-utilities/enforce-attrs-vue/commit/abbe50027e99c4a140f8850459b009f23a658e1d))
+
 ## [1.0.1](https://github.com/7f51-utilities/enforce-attrs-vue/compare/v1.0.0...v1.0.1) (2025-05-25)
 
 
