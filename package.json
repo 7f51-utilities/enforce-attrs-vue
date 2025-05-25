@@ -1,6 +1,6 @@
 {
     "name": "@7f51-utilities/enforce-attrs-vue",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "module",
     "description": "A Vue 3 directive to enforce HTML attributes on elements",
     "main": "./dist/index.umd.cjs",
