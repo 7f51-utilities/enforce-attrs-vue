@@ -28,7 +28,7 @@
         "validation",
         "attributes"
     ],
-    "author": "Your Name",
+    "author": "7f51-utilities",
     "license": "ISC",
     "peerDependencies": {
         "vue": "^3.0.0"
@@ -48,10 +48,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/7f51-utilities/enforce-attrs-vue.git"
+        "url": "git+https://github.com/7f51-utilities/enforce-attrs-vue.git"
     },
     "bugs": {
         "url": "https://github.com/7f51-utilities/enforce-attrs-vue/issues"
     },
-    "homepage": "https://github.com/7f51-utilities/enforce-attrs-vue#readme"
+    "homepage": "https://github.com/7f51-utilities/enforce-attrs-vue#readme",
+    "private": false
 }
