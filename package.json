@@ -54,5 +54,8 @@
         "url": "https://github.com/7f51-utilities/enforce-attrs-vue/issues"
     },
     "homepage": "https://github.com/7f51-utilities/enforce-attrs-vue#readme",
-    "private": false
+    "private": false,
+    "publishConfig": {
+        "access": "public"
+    }
 }
