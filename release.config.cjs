@@ -15,7 +15,8 @@ const config = {
         [
             '@semantic-release/npm',
             {
-                npmPublish: true
+                npmPublish: true,
+                access: 'public'
             }
         ],
         [
