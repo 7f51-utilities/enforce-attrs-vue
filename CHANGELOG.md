@@ -1,3 +1,10 @@
+## [1.0.4-beta.1](https://github.com/7f51-utilities/enforce-attrs-vue/compare/v1.0.3...v1.0.4-beta.1) (2025-05-30)
+
+
+### Bug Fixes
+
+* modification to build process of the package ([86d7f7e](https://github.com/7f51-utilities/enforce-attrs-vue/commit/86d7f7e5326335cfbdb70f3f593167833653941e))
+
 ## [1.0.3](https://github.com/7f51-utilities/enforce-attrs-vue/compare/v1.0.2...v1.0.3) (2025-05-25)
 
 
