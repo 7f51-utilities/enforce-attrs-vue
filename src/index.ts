@@ -1,5 +1,11 @@
 import type { App, DirectiveBinding } from 'vue';
 
+declare global {
+  interface Window {
+    Vue?: any;
+  }
+}
+
 export interface EnforceAttrsBinding {
   [key: string]: string | number | boolean;
 }
